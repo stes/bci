@@ -1,3 +1,6 @@
+# Optimal Session-to-Session Transport for BCI
+
+![](img/overview.png)
 
 ## Requirements
 

@@ -1,5 +1,5 @@
 all:
-	pdflatex abstract.tex
-	bibtex abstract
-	pdflatex abstract.tex
-	pdflatex abstract.tex
+	pdflatex report.tex
+	bibtex report
+	pdflatex report.tex
+	pdflatex report.tex
